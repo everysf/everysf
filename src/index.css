@@ -1,0 +1,55 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #41478a;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.bookmania {
+  font-family: bookmania, serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.bookalt1 {
+  -moz-font-feature-settings: "salt";
+  -webkit-font-feature-settings: "salt";
+  font-feature-settings: "salt";
+}
+
+.bookalt2 {
+  -moz-font-feature-settings: "salt" 2;
+  -webkit-font-feature-settings: "salt" 2;
+  font-feature-settings: "salt" 2;
+}
+
+.bookalt3 {
+  -moz-font-feature-settings: "salt" 3;
+  -webkit-font-feature-settings: "salt" 3;
+  font-feature-settings: "salt" 3;
+}
+.bookalt4 {
+  -moz-font-feature-settings: "salt" 4;
+  -webkit-font-feature-settings: "salt" 4;
+  font-feature-settings: "salt" 4;
+}
+.bookalt5 {
+  -moz-font-feature-settings: "salt" 5;
+  -webkit-font-feature-settings: "salt" 5;
+  font-feature-settings: "salt" 5;
+}
+
+.bookalt8 {
+  -moz-font-feature-settings: "salt" 8;
+  -webkit-font-feature-settings: "salt" 8;
+  font-feature-settings: "salt" 8;
+}
