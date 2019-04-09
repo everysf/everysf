@@ -156,6 +156,8 @@ const Resume = styled.div`
   align-items: center;
   justify-content: center;
   border: 1px solid ${props => props.theme.secondary};
+  background: url(img/deco.svg);
+  background-position: center;
   margin-bottom: 60px;
 
   a {
@@ -166,12 +168,12 @@ const Resume = styled.div`
     border: 1px solid ${props => props.theme.secondary};
     text-decoration: none;
     transition: .2s ease;
+    background-color: ${props => props.theme.primary};
   }
 
   a:hover {
-    background-color: white;
+    background-color: ${props => props.theme.secondary};
     color: ${props => props.theme.primary};
-    border: 1px solid white;
   }
 
   .buttons {
