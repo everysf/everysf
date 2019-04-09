@@ -53,3 +53,6 @@ code {
   -webkit-font-feature-settings: "salt" 8;
   font-feature-settings: "salt" 8;
 }
+
+::-moz-selection { background: black}
+::selection { background: black }
